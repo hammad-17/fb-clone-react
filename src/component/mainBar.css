@@ -1,0 +1,101 @@
+.main-bar{
+    width: 40%;
+    background-color: rgb(223, 219, 219);
+    height: 170vh;
+}
+
+.another-class{
+    height: 50px;
+    width: 50px;
+}
+
+.header-content{
+    height: 90px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.input-1{
+    height: 30px;
+    margin: 20px;
+    margin-top: 23px;
+    width: 350px;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 20px;
+}
+
+.button{
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bold;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.post-content{
+    height: 500px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.post-container1{
+   
+    display: flex;
+}
+
+.post-under{
+    display: flex;
+    width: 50%;
+}
+
+.menu{
+    height: 25px;
+    width: 25px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+.cross{
+    height: 20px;
+    width: 20px;
+    padding: 12px;
+}
+
+.post-inder-image{
+    width: 50%;
+    display: flex;
+    margin-top: 15px;
+}
+
+.post-heading{
+    padding: 10px;
+    color: rgb(47, 44, 44) ;
+}
+
+.post-img{
+    height: 250px;
+    width: 100%;
+}
+
+.like{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.footer1{
+    display: flex;
+}
+
+.footer-post{
+    display: flex;
+}
+

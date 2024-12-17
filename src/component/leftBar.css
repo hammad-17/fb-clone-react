@@ -1,0 +1,67 @@
+.left-bar{
+    /* background-color: blue; */
+    height: 100%;
+    width: 30%;
+}
+
+.header{
+    display: flex;
+}
+
+.img-header{
+    height: 70px;
+    width: 70px;
+    border: 1px solid transparent;
+    border-radius: 60px;
+    padding: 10px;
+    padding-top: 20px;
+}
+
+.personName{
+    padding-top: 20px;
+}
+
+.main-container{
+    padding: 20px;
+    padding-top: 10px;
+}
+
+.figma{
+    height: 70px;
+    width: 70px;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    padding: 10px;
+    padding-top: 20px;
+}
+
+.under-footer{
+    display: flex;
+}
+
+.footer-head{
+    padding: 20px;
+    color: grey;
+}
+
+.java{
+    height: 70px;
+    width: 70px;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    padding: 10px;
+    padding-top: 20px; 
+}
+
+.btn-1{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border: 1px solid white;
+}
+
+.btn-1:hover{
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 10px;
+}
